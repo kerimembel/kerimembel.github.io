@@ -1,8 +1,8 @@
 ---
 layout: posts
-permalink: /software-projects/
-title: "Software Projects"
+permalink: /projects/
+title: "Projects"
 author_profile: true
 header:
-    image: "images/wide-angle.jpg"
+    image: "images/projects.jpg"
 ---
