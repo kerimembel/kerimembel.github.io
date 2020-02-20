@@ -111,11 +111,11 @@ author:
   avatar           : "images/profile.jpg"
   bio              : "Welcome to my portfolio page."
   location         : "İzmir-Turkey"
-  #email            : "kerim.embel@ceng.deu.edu.tr"
+  email            : "kerim.embel@ceng.deu.edu.tr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kerim.embel@ceng.deu.edu.tr"
+      #url: "mailto:kerim.embel@ceng.deu.edu.tr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

@@ -3,14 +3,6 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Resume"
-    url: /resume/
+    url: /https://docs.google.com/viewer?url=https://github.com/kerimembel/kerimembel.github.io/raw/master/images/Kerim%20Embel%20Resume.pdf/
   - title: "About"
     url: /about/
-  # title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
