@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Hardware Projects"
-    url: /hardware-projects/
-  - title: "Software Projects"
-    url: /software-projects/
+  - title: "Projects"
+    url: /projects/
+  - title: "Resume"
+    url: /resume/
   - title: "About"
     url: /about/
   # title: "About"
