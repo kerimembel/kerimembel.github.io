@@ -3,9 +3,8 @@ title: "Smart Rockets With Genetic Algorithm"
 date: 2018-01-28
 tags: [Genetic Algorithm,Smart Rockets, Software Projects]
 header:
-  #image: "/images/test.jpg"
+# image: "/images/test.jpg"
 excerpt: "Software Projects, Genetic Algorithm,Smart Rockets"
-
 ---
 Rockets trying to find the target with genetic algorithm.
 
