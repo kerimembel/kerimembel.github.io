@@ -1,5 +1,5 @@
 ---
-title: "Software Projects"
+title: "Projects"
 date: 2018-01-28
 tags: [Software Projects, data science, messy data, Software Projects]
 header:
